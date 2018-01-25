@@ -2,14 +2,5 @@
   "db": {
     "name": "db",
     "connector": "memory"
-  },
-  "ykipdb": {
-    "host": "${ykipdb_SERVICE_HOST}",
-    "port": "${ykipdb_SERVICE_PORT}",
-    "database": "${ykipdb_DATABASE}",
-    "password": "${ykipdb_PASSWORD}",
-    "name": "ykipdb",
-    "user": "${ykipdb_USER}",
-    "connector": "mongodb"  
   }
 }
